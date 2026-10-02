@@ -3,7 +3,7 @@
 > *A production-grade benchmarking tool for RAG Agents, focusing on reliability and sub-second latency.*
 
 ## Why this exists
-AI Agents often fail in production due to "looping" or high latency. This suite provides a testing harness to ensure agents are "Mercura-ready" before deployment.
+AI Agents often fail in production due to "looping" or high latency. This suite provides a testing harness to ensure agents are ready before deployment.
 
 ## Features
 
